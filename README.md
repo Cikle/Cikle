@@ -5,7 +5,5 @@
 </div>
 
 
-
-
-https://github.com/Cikle/Cikle/assets/110893288/d8ec6058-9c23-44c6-b789-58fa442f7a09
+https://github.com/Cikle/Cikle/assets/110893288/230749ef-1f73-4f40-b624-0aded533b009
 
