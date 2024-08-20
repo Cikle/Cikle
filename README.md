@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Cikle!
 
-Welcome to my GitHub profile! I'm a passionate Computer Science student from Switzerland with a keen interest in application development. Thank you for taking the time to visit.
+Welcome to my GitHub profile! I'm a passionate Computer Science student from Switzerland with a keen interest in application development. I grew up bilingual, speaking both Chinese and German.
 
 ## 💼 Skills and Technologies I've Worked With:
 
@@ -19,12 +19,10 @@ Welcome to my GitHub profile! I'm a passionate Computer Science student from Swi
 
 **Databases:**
 - SQL
+- MongoDB
 
 **Other:**
 - Windows
-- Linux
 
 **Currently Learning:**
 - React Native
-- C#
-- Python
