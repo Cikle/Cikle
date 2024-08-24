@@ -8,12 +8,9 @@ Welcome to my GitHub profile! I'm a passionate Computer Science student from Swi
 
 **Programming Languages:**
 - C#
-- Python
-- C++
 - Java (Robocode)
 - JavaScript
 - Powershell
-- Bash
 
 **Tools & Technologies:**
 - Docker
@@ -28,3 +25,4 @@ Welcome to my GitHub profile! I'm a passionate Computer Science student from Swi
 
 **Currently Learning:**
 - React Native
+- Python 
