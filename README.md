@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Cikle!
 
-Welcome to my GitHub profile! I'm a passionate Computer Science student from Switzerland with a keen interest in application development. I grew up bilingual, speaking both Chinese and German, with a solid proficiency in English as well.
+Hello and welcome to my GitHub profile! I’m a passionate Computer Science student from Switzerland with a keen interest in application deveopement and a strong focus on design. Growing up bilingual in Chinese and German, with proficient English skills.
 
 ## ⛔Just a quick heads-up: my website is currently under construction, so some features might not be fully functional yet.⛔
 
