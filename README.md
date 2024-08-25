@@ -11,6 +11,7 @@ Welcome to my GitHub profile! I'm a passionate Computer Science student from Swi
 - Java (Robocode)
 - JavaScript
 - Powershell
+- html & css (Favorites)
 
 **Tools & Technologies:**
 - Docker
