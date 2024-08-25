@@ -24,5 +24,5 @@ Welcome to my GitHub profile! I'm a passionate Computer Science student from Swi
 - Windows
 
 **Currently Learning:**
-- React Native
-- Python 
+- Python
+- TypeScript
