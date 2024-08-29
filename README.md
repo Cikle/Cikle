@@ -2,7 +2,7 @@
 
 Hello and welcome to my GitHub profile! I’m a passionate Computer Science student from Switzerland with a keen interest in application deveopement and a strong focus on design. Growing up bilingual in Chinese and German, with proficient English skills.
 
-## ⛔Just a quick heads-up: my website is currently under construction, so some features might not be fully functional yet.⛔
+## My Website: http://cikle.me
 
 ## 💼 Skills and Technologies I've Worked With:
 
