@@ -8,7 +8,6 @@ Hello and welcome to my GitHub profile! I’m a passionate Computer Science stud
 
 **Programming Languages:**
 - C#
-- Java
 - Powershell
 - html & css (Favorites)
 
@@ -29,3 +28,4 @@ Hello and welcome to my GitHub profile! I’m a passionate Computer Science stud
 - Python
 - TypeScript
 - JavaScript
+- Java
