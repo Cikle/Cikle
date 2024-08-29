@@ -13,9 +13,11 @@ Hello and welcome to my GitHub profile! I’m a passionate Computer Science stud
 - Powershell
 - html & css (Favorites)
 
-**Tools & Technologies:**
+**Tools, Technologies & IDE's:**
 - Docker
 - Git
+- Visual Studio 2022
+- Visual Studio Code
 
 **Databases:**
 - SQL
