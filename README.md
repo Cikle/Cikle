@@ -28,4 +28,3 @@ Hello and welcome to my GitHub profile! I’m a passionate Computer Science stud
 - Python
 - TypeScript
 - JavaScript
-- Java
