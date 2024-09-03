@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Cyril Lutziger!
 
-Hello and welcome to my GitHub profile! I’m a passionate Computer Science student from Switzerland with a keen interest in application deveopement and a strong focus on design. Growing up bilingual in Chinese and German, with proficient English skill
+Hello and welcome to my GitHub profile! I’m a passionate Computer Science student from Switzerland with a keen interest in application deveopement and a strong focus on design. Growing up bilingual in Chinese and German, with proficient English skills.
 
 ## My Website: <a href="https://cikle.me/">Cikle.me</a>
 
